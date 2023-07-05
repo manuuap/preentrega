@@ -5,7 +5,7 @@ import { useParams } from "react-router-dom"
 
 export const ItemDetailContainer = () => {
     const [product, setProduct] = useState({})
-    const { productId } = useParams()
+    const { id } = useParams()
 
     useEffect(() => {
         const promesa = new Promise((resolve, rejected) => {
@@ -15,16 +15,16 @@ export const ItemDetailContainer = () => {
         })
         promesa.then(result => {
             setProduct(result.find(product =>
-                product.id === parseInt(productId)))
+                product.id === parseInt(id)))
         })
-    }, [productId])
+    }, [id])
     return (
         <>
             <div>Detalles</div>
             {product.length === 0 ? (
                 <div>Loading...</div>
             ) : (
-                <ItemDetail product={product} />
+                <ItemDetail key={id} product={product} />
             )}
         </>
     )
