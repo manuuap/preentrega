@@ -7,6 +7,7 @@
         "name_product":"CSL DD",
         "description":"#",
         "price": 349,
+        "stock":10,
         "img":"https://fanatec.com/media/image/b7/9d/3a/Product_thumbnail_CSL_DD_QR1_Primeshot_Front_angledEkN9Y6qrZkHkT_600x600.jpg"
     },
     {
@@ -17,6 +18,7 @@
         "name_product":"Gran Turismo DD Pro Wheel Base",
         "description":"#",
         "price": 599,
+        "stock":10,
         "img":"https://fanatec.com/media/image/55/bc/5c/Product_thumbnail_GT_DD_PRO_Front_angled_600x600.jpg"
     },
     {
@@ -27,6 +29,7 @@
         "name_product":"Podium Wheel Base DD1",
         "description":"#",
         "price": 590,
+        "stock":10,
         "img":"https://fanatec.com/media/image/0f/02/15/DD1_preview_3_600x600.jpg"
     },
     {
@@ -37,6 +40,7 @@
         "name_product":"Podium Wheel Base DD2",
         "description":"#",
         "price": 1499,
+        "stock":10,
         "img":"https://fanatec.com/media/image/aa/90/62/DD2_preview_3_600x600.jpg"
     },
     {
@@ -47,6 +51,7 @@
         "name_product":"R5",
         "description":"#",
         "price": 590,
+        "stock":10,
         "img":"https://simracer.at/cdn/shop/products/gajo-379_gajo_379_05_800x800_ede83d44-b896-49b0-b320-86473054502f.jpg?v=1665664757"
     },
     {
@@ -57,6 +62,7 @@
         "name_product":"R9",
         "description":"#",
         "price": 690,
+        "stock":10,
         "img":"https://i0.wp.com/mozaracing.com/wp-content/uploads/2022/03/MOZA-R9-Wheel-Base1.png?fit=1000%2C1000&ssl=1"
     },
     {
@@ -67,6 +73,7 @@
         "name_product":"R12",
         "description":"#",
         "price": 880,
+        "stock":10,
         "img":"https://i0.wp.com/mozaracing.com/wp-content/uploads/2023/06/R12-Wheel-Base-1.webp?fit=1000%2C1000&ssl=1"
     },
     {
@@ -77,6 +84,7 @@
         "name_product":"R16",
         "description":"#",
         "price": 1050,
+        "stock":10,
         "img":"https://cdn.shopify.com/s/files/1/0323/4342/5157/products/MozaR16_3_620x.png?v=1655265385"
     },
     {
@@ -87,6 +95,7 @@
         "name_product":"R21",
         "description":"#",
         "price": 1370,
+        "stock":10,
         "img":"https://simufy.com/cdn/shop/products/R21-Product-Img-3_800x.webp?v=1678212945"
     },
     {
@@ -97,6 +106,7 @@
         "name_product":"T-GT II Servo Base",
         "description":"#",
         "price": 499,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/12/T-GT-2-servo-base-ps5-ps4-racing-1-300x300.png"
     },
     {
@@ -107,6 +117,7 @@
         "name_product":"T300 Racing Wheel Servo Base",
         "description":"#",
         "price": 300,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/09/list-T300RS-servo-base-ecosystem-ps4-300x300.png"
     },
     {
@@ -117,6 +128,7 @@
         "name_product":"TS PC Racer Servo Base",
         "description":"#",
         "price": 349,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/12/TS-PC-Racer-Servo-Base-300x300.png"
     },
     {
@@ -127,6 +139,7 @@
         "name_product":"TS XW Servo Base",
         "description":"#",
         "price": 449,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/09/TS-XWServoBase-pichi-300x300.png"
     },
     {
@@ -137,6 +150,7 @@
         "name_product":"TX Racing Wheel Servo Base",
         "description":"#",
         "price": 329,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/09/list-TX-SERVO-BASE-xbox-300x300.png"
     },
     {
@@ -147,6 +161,7 @@
         "name_product":"Pedals V3 Inverted",
         "description":"#",
         "price": 599,
+        "stock":10,
         "img":"https://fanatec.com/media/image/87/fd/18/CSP_V3i_preview_600x600.jpg"
     },
     {
@@ -157,6 +172,7 @@
         "name_product":"ClubSport V3",
         "description":"#",
         "price": 399,
+        "stock":10,
         "img":"https://fanatec.com/media/image/b1/93/8f/CSP_V3_preview_600x600.jpg"
     },
     {
@@ -167,6 +183,7 @@
         "name_product":"CSL Elite Pedals V2",
         "description":"#",
         "price": 590,
+        "stock":10,
         "img":"https://fanatec.com/media/image/94/68/58/Product_thumbnail_CSL_Elite_Pedals_V2_1_600x600.jpg"
     },
     {
@@ -177,6 +194,7 @@
         "name_product":"CSL Pedals LC",
         "description":"#",
         "price": 199,
+        "stock":10,
         "img":"https://fanatec.com/media/image/f7/2b/12/Product_thumbnail_CSL_Pedals_LC_600x600.jpg"
     },
     {
@@ -187,6 +205,7 @@
         "name_product":"CRP Pedals",
         "description":"#",
         "price": 458,
+        "stock":10,
         "img":"https://mozaracing.com/wp-content/themes/soledad-child/CRP/img/webp/mobile/Unmatched%20Style%20and%20Performance.webp"
     },
     {
@@ -197,6 +216,7 @@
         "name_product":"SR P Pedals",
         "description":"#",
         "price": 542,
+        "stock":10,
         "img":"https://cdn.shopify.com/s/files/1/0615/3122/6358/products/D01_0525.442.png?v=1654660046"
     },
     {
@@ -207,6 +227,7 @@
         "name_product":"T-LCM Pedals",
         "description":"#",
         "price": 249,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/09/P_List-t-lcm-pedals-1-300x300.png"
     },
     {
@@ -217,6 +238,7 @@
         "name_product":"T3PM",
         "description":"#",
         "price": 149,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/10/t3pm-300x300.png"
     },
     {
@@ -227,6 +249,7 @@
         "name_product":"TRPA add-ON",
         "description":"#",
         "price": 139,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/10/t3pa-add-on-pedals-300x300.png"
     },
     {
@@ -237,6 +260,7 @@
         "name_product":"Clubsport Steering Wheel Formula v25 Clubsport",
         "description":"#",
         "price": 399,
+        "stock":10,
         "img":"https://fanatec.com/media/image/c8/f6/4c/Product_thumbnail_CS_Formula_V2-5X_wheels_absolutely_600x600.jpg"
     },
     {
@@ -247,6 +271,7 @@
         "name_product":"Clubsport Steering Wheel GT V2",
         "description":"#",
         "price": 349,
+        "stock":10,
         "img":"https://fanatec.com/media/image/ed/b4/b7/Product_thumbnail_CS_SW_BMW_GT2_V2_absolutely_600x600.jpg"
     },
     {
@@ -257,6 +282,7 @@
         "name_product":"Podium Steering Wheel MBW M4 GT3",
         "description":"#",
         "price": 1499,
+        "stock":10,
         "img":"https://fanatec.com/media/image/45/62/6b/Product_thumbnail_Podium_SW_M4_GT3_absolutely_600x600.jpg"
     },
     {
@@ -267,6 +293,7 @@
         "name_product":"Podium Steering Wheel Porsche 911 GT3 R Suede",
         "description":"#",
         "price": 649,
+        "stock":10,
         "img":"https://fanatec.com/media/image/cf/d5/bc/Product_thumbnail_Porsche_911_GT3_R_Podium_suede_absolutely_600x600.jpg"
     },
     {
@@ -277,6 +304,7 @@
         "name_product":"FSR Formula Wheel",
         "description":"#",
         "price": 649,
+        "stock":10,
         "img":"https://i0.wp.com/mozaracing.com/wp-content/uploads/2022/08/4.3-inch-Built-in-Digital-Dash_update.png?fit=2282%2C1256&ssl=1"
     },
     {
@@ -287,6 +315,7 @@
         "name_product":"GS V2 GT Wheel",
         "description":"#",
         "price": 469,
+        "stock":10,
         "img":"https://m.media-amazon.com/images/I/61G3vl6xfKL._AC_UF894,1000_QL80_.jpg"
     },
     {
@@ -297,6 +326,7 @@
         "name_product":"RS V2",
         "description":"#",
         "price": 439,
+        "stock":10,
         "img":"https://mozaracing.com/wp-content/uploads/2022/11/RS-V2-1.webp"
     },
     {
@@ -307,6 +337,7 @@
         "name_product":"Ferrari F1 Wheel add-ON",
         "description":"#",
         "price": 399,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/09/P_List-Thrustmaster-FERRARI-F1-WHEEL-ADD-ON-300x300.png"
     },
     {
@@ -317,6 +348,7 @@
         "name_product":"Formula Wheel add-ON Ferrari SF1000 Edition",
         "description":"#",
         "price": 399,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/09/wheel-add-on-Ferrari-SF1000-300x300.png"
     },
     {
@@ -327,6 +359,7 @@
         "name_product":"TM Leather 28 GT Wheel add-ON",
         "description":"#",
         "price": 199,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/10/list-TM-leather-28gt-racing-wheel-300x300.png"
     },
     {
@@ -337,6 +370,7 @@
         "name_product":"TM Open Wheel add-ON",
         "description":"#",
         "price": 189,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/09/SF_List-TM-OPEN-WHEEL-add-on-racing-1-300x300.png"
     },
     {
@@ -347,6 +381,7 @@
         "name_product":"G920-G29",
         "description":"#",
         "price": 350,
+        "stock":10,
         "img":"https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/drivingforce/g920-gallery-1-2.png?v=1"
     },
     {
@@ -357,6 +392,7 @@
         "name_product":"G923",
         "description":"#",
         "price": 590,
+        "stock":10,
         "img":"https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g923-and-trueforce/g923-gallery/g923-ps4-gallery-1.png?v=1"
     },
     {
@@ -367,6 +403,7 @@
         "name_product":"Pro Racing Wheel",
         "description":"#",
         "price": 1200,
+        "stock":10,
         "img":"https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-racing/pro-racing-wheel/gallery-xbox/gallery-1-pc-xbox.png?v=1"
     },
     {
@@ -377,6 +414,7 @@
         "name_product":"Clubsport Shifter SQ V15",
         "description":"#",
         "price": 259,
+        "stock":10,
         "img":"https://fanatec.com/media/image/90/a7/fa/CSS-SQ-V1-5-1280x1280_600x600.jpg"
     },
     {
@@ -387,6 +425,7 @@
         "name_product":"Driving Force Shifter",
         "description":"#",
         "price": 140,
+        "stock":10,
         "img":"https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/driving-force-shifter/shifter-gallery-1.png?v=1"
     },
     {
@@ -397,6 +436,7 @@
         "name_product":"HGP Shifter",
         "description":"#",
         "price": 149,
+        "stock":10,
         "img":"https://163.wpcdnnode.com/simracewebshop.com/wp-content/uploads/2023/02/moza-racing-hgp-shifter-above.jpg"
     },
     {
@@ -407,6 +447,7 @@
         "name_product":"TH8A Shifter add-ON",
         "description":"#",
         "price": 169,
+        "stock":10,
         "img":"https://shop.thrustmaster.com/media/catalog/product/cache/2cc11eadbe5979a7883b6a1bf56c2150/t/h/th8a-800x600-1.jpg"
     },
     {
@@ -417,6 +458,7 @@
         "name_product":"Clubsport Handbrake V15",
         "description":"#",
         "price": 159,
+        "stock":10,
         "img":"https://fanatec.com/media/image/d5/af/65/CS-HB-V1-5-1280x1280_600x600.jpg"
     },
     {
@@ -427,6 +469,7 @@
         "name_product":"HBP Handbrake",
         "description":"#",
         "price": 99,
+        "stock":10,
         "img":"https://mozaracing.com/wp-content/uploads/2022/12/MOZA-HBP-Handbrake-1.webp"
     },
     {
@@ -437,6 +480,7 @@
         "name_product":"TSS Handbrake Sparco MOD",
         "description":"#",
         "price": 329,
+        "stock":10,
         "img":"https://www.thrustmaster.com/wp-content/uploads/2021/09/TSS-Handbrake-Sparco-Mod-300x300.png"
     },
     {
@@ -447,6 +491,7 @@
         "name_product":"Turismo",
         "description":"#",
         "price": 720,
+        "stock":10,
         "img":"https://d2r9epyceweg5n.cloudfront.net/stores/875/675/products/tg27-31-68369c62eea7c92a7f15874912895361-320-0.png"
     },
     {
@@ -457,6 +502,7 @@
         "name_product":"Sim Light",
         "description":"#",
         "price": 650,
+        "stock":10,
         "img":"https://http2.mlstatic.com/D_NQ_NP_652893-MLA46637665710_072021-V.webp"
     },
     {
@@ -467,6 +513,7 @@
         "name_product":"Sim ONE",
         "description":"#",
         "price": 750,
+        "stock":10,
         "img":"https://http2.mlstatic.com/D_NQ_NP_832833-MLA48680367823_122021-V.webp"
     },
     {
@@ -477,6 +524,7 @@
         "name_product":"Sim PRO",
         "description":"#",
         "price": 900,
+        "stock":10,
         "img":"https://http2.mlstatic.com/D_NQ_NP_968701-MLA47261436057_082021-V.webp"
     },
     {
@@ -487,6 +535,7 @@
         "name_product":"GT F1",
         "description":"#",
         "price": 1490,
+        "stock":10,
         "img":"https://irondriver.com.ar/wp-content/uploads/2021/01/07_INICIO_carrousel3.jpg"
     }
 ]
